@@ -1,3 +1,8 @@
-### Hi there 👋
+### 👤 I'm Felix, I am...
+A Junior Mobile Developer at RHE Global.
 
-I'm Felix, a Junior Mobile Developer at RHE Global.
+### 🧑🏻‍🔧 I'm currently working on...
+Cool things with mobile technology
+
+### 🗣 My pronouns are...
+He/Him
