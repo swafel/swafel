@@ -15,3 +15,5 @@ I've recently started a new exciting position in a company providing intelligent
 ### Anything Else?
 
 I'm a Professional Member of the BCS, The Chartered Institute for IT.
+
+![He/Him](https://github.com/swafel/swafel/blob/master/hehimpronounbadge.png)
