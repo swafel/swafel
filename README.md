@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A passionate mobile developer from Mid Wales</h3>
+<h3 align="center">A Mobile Developer from Mid Wales</h3>
 
 I've recently started a new exciting position in a company providing intelligent working solutions in the Environmental Health Sector. I'm a Junior Member of the Software Team, working towards modernising our portfolio of mobile apps providing service providers, local authorities and officials throughout the environmental health industry with powerful tools to compete tasks.
 
