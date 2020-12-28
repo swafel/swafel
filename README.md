@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
+<h1 align="center">Hi 👋 I'm Felix</h1>
 <h3 align="center">A Mobile Developer from Mid Wales</h3>
 
-I've recently started a new exciting position in a company providing intelligent working solutions in the Environmental Health Sector. I'm a Junior Member of the Software Team, working towards modernising our portfolio of mobile apps providing service providers, local authorities and officials throughout the environmental health industry with powerful tools to compete tasks.
+I'm a Junior Member of the Software Team in a company providing intelligent working solutions in the Environmental Health Sector. I work on our mobile apps, which provide service providers, local authorities and officials throughout the environmental health industry with powerful tools to complete tasks.
 
-I've just graduated from Aberystwyth University! In the final stage of my degree, I have in iOS development, taking a keen interest in my Mobile Development module and continuing to develop my skills in this area by undertaking a dissertation project creating apps for iOS, where I have started to focus on the new technology of SwiftUI. My Major Project was 'Museo' - An Museum Tour iOS App using Apple's iBeacon protocol to guide people around a Museum. Year two of my degree also a Software Engineering module which gave me the opportunity to work within a group with seven of my peers to create an Android mobile application, the project focussed on working according to precise documentation and project specifications.
-
-I'm a Professional Member of the BCS, The Chartered Institute for IT.
+I'm a recent graduate of Aberystwyth University and a Professional Member of the BCS, The Chartered Institute for IT.
 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/swafel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swafel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swafel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linked-in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
